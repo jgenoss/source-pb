@@ -1,0 +1,22 @@
+﻿[20250716-000059] AraLauncher1 - start
+[20250716-000059] SelfUpdate INI File : F:\PB\pbblow\src\Client\Source\ClientSource\Source\Arario\Launcher\starter.ini
+[20250716-000059] 2ndLauncher path is C:\Users\JGENOSS\AppData\Roaming\Arario\pointblankQA
+[20250716-000059] patcher.appName : pointblank
+[20250716-000059] patcher.giURL : http://gi.arario.jp/pointblank/gameInfo_qa.ini
+[20250716-000059] patcher.targetDir : C:\Users\JGENOSS\AppData\Roaming\Arario\pointblankQA
+[20250716-000059] patcher.targetName : QALauncher2
+[20250716-000059] patcher.workDir : F:\PB\pbblow\src\Client\Source\ClientSource\Source\Arario\Launcher
+[20250716-000059] Patcher-ENV: FN/Patcher::ErrorCheck, appname:pointblank, giUrl:http://gi.arario.jp/pointblank/gameInfo_qa.ini
+[20250716-000059] Patcher-ENV: targetName:QALauncher2, workdir:F:\PB\pbblow\src\Client\Source\ClientSource\Source\Arario\Launcher, targetdir:C:\Users\JGENOSS\AppData\Roaming\Arario\pointblankQA
+[20250716-000059] Patcher: tempFile:F:\PB\pbblow\src\Client\Source\ClientSource\Source\Arario\Launcher\temp.ini, compfileFile:F:\PB\pbblow\src\Client\Source\ClientSource\Source\Arario\Launcher\temp.cab
+[20250716-000102] download fail giUrl to local (http://gi.arario.jp/pointblank/gameInfo_qa.ini,F:\PB\pbblow\src\Client\Source\ClientSource\Source\Arario\Launcher\temp.ini)
+[20250716-000102] gi url - t2 phase - done and try (http://61.206.174.85/pointblank/gameInfo_qa.ini)
+[20250716-000102] patcher.appName : pointblank
+[20250716-000102] patcher.giURL : http://61.206.174.85/pointblank/gameInfo_qa.ini
+[20250716-000102] patcher.targetDir : C:\Users\JGENOSS\AppData\Roaming\Arario\pointblankQA
+[20250716-000102] patcher.targetName : QALauncher2
+[20250716-000102] patcher.workDir : F:\PB\pbblow\src\Client\Source\ClientSource\Source\Arario\Launcher
+[20250716-000102] Patcher-ENV: FN/Patcher::ErrorCheck, appname:pointblank, giUrl:http://61.206.174.85/pointblank/gameInfo_qa.ini
+[20250716-000102] Patcher-ENV: targetName:QALauncher2, workdir:F:\PB\pbblow\src\Client\Source\ClientSource\Source\Arario\Launcher, targetdir:C:\Users\JGENOSS\AppData\Roaming\Arario\pointblankQA
+[20250716-000102] Patcher: tempFile:F:\PB\pbblow\src\Client\Source\ClientSource\Source\Arario\Launcher\temp.ini, compfileFile:F:\PB\pbblow\src\Client\Source\ClientSource\Source\Arario\Launcher\temp.cab
+[20250716-000103] AraLauncher1 - end
